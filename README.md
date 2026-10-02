@@ -204,3 +204,9 @@ Both single-turn and multi-turn smoke tests passed. Tools fired correctly, knowl
 ## License
 
 This repository contains simulated demonstration assets for IBM watsonx Orchestrate. All company names, policies, and data within the knowledge base documents are fictional and intended for testing purposes only.
+
+---
+
+## Author
+
+**ANGREJ**
