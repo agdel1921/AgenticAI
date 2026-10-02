@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "watsonx-orchestrate-adk-docs": {
+      "type": "streamable-http",
+      "url": "https://developer.watson-orchestrate.ibm.com/mcp",
+      "timeout": 120000
+    },
+    "watsonx-orchestrate-adk": {
+      "command": "uvx",
+      "args": [
+        "ibm-watsonx-orchestrate-mcp-server"
+      ],
+      "env": {
+        "WXO_MCP_WORKING_DIRECTORY": "/Users/ag/GitWork/AgenticAI",
+        "WXO_MCP_DEBUG": ""
+      },
+      "timeout": 120000
+    }
+  }
+}

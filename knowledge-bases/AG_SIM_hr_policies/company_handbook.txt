@@ -1,0 +1,87 @@
+ACME CORPORATION — EMPLOYEE HANDBOOK (SIMULATED POLICY DOCUMENT)
+Version: 2025.1 | Effective Date: 01 January 2025
+
+========================================================
+SECTION 1: WELCOME & COMPANY OVERVIEW
+========================================================
+Welcome to Acme Corporation! We are a global technology company headquartered in San Francisco, CA, with offices in New York, London, and Singapore. Our mission is to deliver innovative solutions that transform industries.
+
+Acme Corporation was founded in 1998 and today employs over 10,000 people across 20 countries. We are committed to building a diverse, inclusive, and equitable workplace where every employee can thrive.
+
+========================================================
+SECTION 2: CODE OF CONDUCT
+========================================================
+All employees are expected to:
+- Treat colleagues, clients, and partners with respect and professionalism.
+- Maintain confidentiality of proprietary and client information.
+- Avoid conflicts of interest; disclose any potential conflicts to your manager.
+- Refrain from discriminatory, harassing, or offensive behaviour.
+- Report suspected violations of this code to HR or the Ethics Hotline at ethics@acme.com.
+
+Violations may result in disciplinary action up to and including termination.
+
+========================================================
+SECTION 3: WORKING HOURS & ATTENDANCE
+========================================================
+Standard working hours: Monday–Friday, 9:00 AM – 5:30 PM (local time).
+- Core hours (all teams must be available): 10:00 AM – 3:00 PM.
+- Flexible start/end times are available with manager approval.
+- Employees must notify their manager at least 30 minutes before their scheduled start if they will be absent or late.
+- Remote work is permitted up to 3 days per week; on-site days are Tuesdays and Thursdays by default.
+
+========================================================
+SECTION 4: LEAVE POLICY
+========================================================
+Annual Leave: 25 days per year (prorated for part-year starters). Accrues monthly.
+Sick Leave: 10 paid sick days per year. No carry-over.
+Public Holidays: All national/state public holidays are observed.
+Parental Leave: 26 weeks fully paid for primary caregivers; 4 weeks for secondary caregivers.
+Bereavement Leave: Up to 5 paid days for immediate family; 2 days for extended family.
+Jury Duty: Full pay for the duration of jury service. Notify HR immediately upon receiving summons.
+
+All leave requests must be submitted via the HR Portal at hr.acme.internal.
+
+========================================================
+SECTION 5: EXPENSE & REIMBURSEMENT POLICY
+========================================================
+- Pre-approval required for expenses exceeding $500.
+- Submit expense claims within 30 days of incurring the cost.
+- Receipts required for all expenses over $25.
+- Business travel must be booked through the approved travel portal (travel.acme.internal).
+- Per diem rates: Domestic $75/day; International $120/day.
+- Reimbursement is processed within 10 business days of approval.
+
+========================================================
+SECTION 6: IT & DATA SECURITY
+========================================================
+- All company data must be stored on approved Acme systems; personal cloud storage (Dropbox, personal Google Drive) is prohibited.
+- Employees must lock their workstations when stepping away.
+- Passwords must be at least 14 characters and changed every 90 days.
+- Phishing or suspicious emails must be reported to security@acme.com immediately.
+- Company devices must not be used for personal business activities.
+- VPN must be used when accessing Acme systems remotely.
+
+For IT support: helpdesk@acme.com | Ext. 4000 | Available 7:00 AM – 8:00 PM Mon–Fri.
+
+========================================================
+SECTION 7: PERFORMANCE MANAGEMENT
+========================================================
+- Annual performance reviews take place in December.
+- Mid-year check-ins occur in June.
+- Goals are set using the OKR (Objectives and Key Results) framework.
+- Employees rated "Needs Improvement" will be placed on a 90-day Performance Improvement Plan.
+- Outstanding performers are eligible for the Acme Excellence Award (cash bonus + recognition).
+
+========================================================
+SECTION 8: DISCIPLINARY PROCEDURE
+========================================================
+Minor infractions: Verbal warning → Written warning → Final written warning → Termination.
+Gross misconduct (e.g. fraud, harassment, data breach): May result in immediate suspension and termination without prior warnings.
+
+========================================================
+CONTACT: HR DEPARTMENT
+========================================================
+Email: hr@acme.com
+Phone: +1 (415) 555-0100
+HR Portal: hr.acme.internal
+Office Hours: Mon–Fri, 8:30 AM – 5:30 PM

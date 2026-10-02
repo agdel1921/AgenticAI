@@ -1,0 +1,96 @@
+ACME CORPORATION — EMPLOYEE BENEFITS GUIDE (SIMULATED POLICY DOCUMENT)
+Version: 2025.1 | Effective Date: 01 January 2025
+
+========================================================
+SECTION 1: HEALTH INSURANCE
+========================================================
+All full-time employees (and their eligible dependants) are covered from Day 1.
+
+Medical Plan Options:
+  • Platinum PPO Plan  – Low deductible ($250/individual), wide network. Acme covers 90% of premium.
+  • Gold HMO Plan      – Mid deductible ($500/individual), primary-care referrals required. Acme covers 85%.
+  • Silver HDHP Plan   – High deductible ($1,500/individual) paired with an HSA. Acme seeds HSA with $600/year.
+
+Dental Plan:
+  • 100% coverage for preventive care (cleanings, X-rays).
+  • 80% for basic restorative (fillings, extractions).
+  • 50% for major restorative (crowns, root canals). Annual maximum: $2,500.
+
+Vision Plan:
+  • Eye exam: 100% covered once per year.
+  • Frames/lenses: up to $250 allowance per year.
+  • Contacts: up to $200 allowance per year.
+
+Enrolment: Must be completed within 30 days of hire via the Benefits Portal (benefits.acme.internal).
+Changes outside the enrolment window are only permitted during the annual Open Enrolment period (November each year) or upon a Qualifying Life Event (marriage, birth, etc.).
+
+========================================================
+SECTION 2: RETIREMENT & 401(K)
+========================================================
+Acme Corporation matches employee 401(k) contributions dollar-for-dollar up to 6% of base salary.
+
+  • Vesting schedule: 25% per year; fully vested after 4 years of service.
+  • Employees are auto-enrolled at 3% contribution after 30 days; opt out or change contribution at any time.
+  • Investment options include target-date funds, index funds, and a self-directed brokerage window.
+  • Provider: Fidelity Investments. Portal: netbenefits.fidelity.com/acme
+
+Roth 401(k) option is also available for after-tax contributions.
+
+========================================================
+SECTION 3: LIFE & DISABILITY INSURANCE
+========================================================
+Basic Life Insurance:   2× annual salary, provided at no cost to the employee.
+Supplemental Life:      Up to 5× salary available; employee pays incremental premium.
+Short-Term Disability:  60% of salary for up to 12 weeks; kicks in after a 7-day waiting period.
+Long-Term Disability:   60% of salary from week 13 until age 65 (subject to plan terms).
+
+========================================================
+SECTION 4: EMPLOYEE ASSISTANCE PROGRAMME (EAP)
+========================================================
+Free, confidential support available 24/7 for all employees and household members:
+  • Mental health counselling (up to 8 sessions per issue per year).
+  • Legal consultations.
+  • Financial planning and debt counselling.
+  • Work–life resources (childcare referrals, elder-care support).
+
+Contact: 1-800-555-EAP1 | eap.acme.com
+
+========================================================
+SECTION 5: LEARNING & DEVELOPMENT
+========================================================
+  • Annual L&D budget: $2,000 per employee for courses, certifications, and conferences.
+  • LinkedIn Learning: unlimited access, fully funded.
+  • Tuition Reimbursement: up to $5,250/year for job-relevant degree programmes (requires manager approval and a commitment to remain at Acme for 12 months post-completion).
+  • Internal mentoring programme: enrol at talent.acme.internal.
+
+========================================================
+SECTION 6: WELLNESS BENEFITS
+========================================================
+  • Gym/fitness reimbursement: up to $600/year for gym memberships or fitness classes.
+  • Mental wellness app (Calm or Headspace): fully subsidised.
+  • Ergonomic equipment: one-time $300 allowance for home-office setup.
+  • Wellness challenges: quarterly team challenges with prizes.
+
+========================================================
+SECTION 7: ADDITIONAL PERKS
+========================================================
+  • Employee Referral Bonus: $2,000 for a successful hire that stays 6+ months.
+  • Stock Purchase Plan (ESPP): Buy Acme stock at a 15% discount; 6-month offering periods.
+  • Commuter Benefits: Pre-tax transit/parking up to $315/month.
+  • Childcare FSA: Up to $5,000 pre-tax dependent-care FSA.
+  • Pet Insurance: Voluntary, discounted group rates through Nationwide Pet.
+  • Discount Programme: 10–40% off 500+ national brands via PerkSpot (perks.acme.internal).
+
+========================================================
+SECTION 8: HOW TO ENROL / MAKE CHANGES
+========================================================
+1. Log in to benefits.acme.internal with your Acme SSO credentials.
+2. Select "New Hire Enrolment" or "Life Event / Open Enrolment".
+3. Review each benefit category and make your elections.
+4. Submit elections before the 30-day deadline.
+5. Confirmation email will be sent within 2 business days.
+
+Questions? Contact the Benefits Team:
+  Email: benefits@acme.com
+  Phone: +1 (415) 555-0200
+  Hours: Mon–Fri, 8:00 AM – 6:00 PM PT

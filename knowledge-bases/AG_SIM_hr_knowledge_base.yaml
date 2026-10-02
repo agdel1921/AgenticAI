@@ -1,0 +1,13 @@
+spec_version: v1
+kind: knowledge_base
+name: AG_SIM_hr_knowledge_base
+description: >
+  HR policy and onboarding knowledge base for Acme Corporation.
+  Contains the company handbook, employee benefits guide, and new employee
+  onboarding procedures used by the HR onboarding agent.
+documents:
+  - AG_SIM_hr_policies/company_handbook.txt
+  - AG_SIM_hr_policies/employee_benefits.txt
+  - AG_SIM_hr_policies/onboarding_procedures.txt
+vector_index:
+  embeddings_model_name: ibm/slate-125m-english-rtrvr-v2

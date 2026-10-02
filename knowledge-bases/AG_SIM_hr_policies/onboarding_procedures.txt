@@ -1,0 +1,135 @@
+ACME CORPORATION — NEW EMPLOYEE ONBOARDING PROCEDURES (SIMULATED POLICY DOCUMENT)
+Version: 2025.1 | Effective Date: 01 January 2025
+
+========================================================
+SECTION 1: ONBOARDING OVERVIEW
+========================================================
+Welcome to Acme Corporation! Your onboarding programme is designed to help you settle in quickly, understand our culture, and become productive as smoothly as possible.
+
+The onboarding process spans your first 90 days:
+  • Week 1    : Administration, system access, orientation.
+  • Weeks 2–4 : Role-specific training, team introductions, shadow sessions.
+  • Days 30–60: First assigned projects, manager check-ins.
+  • Days 60–90: Performance objectives set, full independence.
+
+========================================================
+SECTION 2: REQUIRED PAPERWORK CHECKLIST
+========================================================
+All items must be completed within your first 3 business days.
+
+TAX FORMS
+  ☐ Form W-4  – Federal Income Tax Withholding (US employees)
+                Download: hr.acme.internal/forms/w4
+                Submit to: Payroll team (payroll@acme.com) or HR reception.
+  ☐ State tax withholding form (varies by state; HR will provide the correct form).
+  ☐ I-9 Employment Eligibility Verification
+                Original documents required in person on Day 1 (HR reception, Level 2).
+
+NON-DISCLOSURE AGREEMENT (NDA)
+  ☐ Acme Confidentiality & Non-Disclosure Agreement
+                Covers trade secrets, client information, and proprietary technology.
+                DocuSign link sent to your personal email before start date.
+                Must be signed BEFORE your first day (or on Day 1 at the latest).
+                Questions: legal@acme.com
+
+EQUIPMENT REQUEST FORM
+  ☐ Complete the New Hire Equipment Request Form to specify:
+                - Laptop preference (MacBook Pro M3 | Dell XPS 15 | ThinkPad X1)
+                - Monitors (1 or 2)
+                - Peripherals (keyboard, mouse, headset, webcam)
+                - Mobile phone (if role requires)
+                Form link: it.acme.internal/equipment-request
+                Deadline: Submit by end of Day 1 so IT can provision within 48 hours.
+
+DIRECT DEPOSIT / PAYROLL SETUP
+  ☐ Bank account details for direct deposit via the Payroll Portal (payroll.acme.internal).
+  ☐ Pay frequency: bi-weekly (every other Friday).
+
+BENEFITS ENROLMENT
+  ☐ Complete benefits elections within 30 days (see Employee Benefits Guide).
+  ☐ Beneficiary designations for life insurance and 401(k).
+
+ADDITIONAL ACKNOWLEDGEMENTS
+  ☐ IT Acceptable Use Policy – sign via the IT Portal (it.acme.internal).
+  ☐ Employee Handbook acknowledgement – DocuSign link sent on Day 1.
+  ☐ Background check consent (if not already completed pre-hire) – hr@acme.com.
+
+========================================================
+SECTION 3: SYSTEM ACCESS & ACCOUNTS
+========================================================
+Your IT accounts will be created before Day 1. You will receive an activation email to your personal address.
+
+Day 1 Access Provisioned Automatically:
+  • Acme SSO (Single Sign-On) account
+  • Microsoft 365 (Outlook, Teams, SharePoint, OneDrive)
+  • Slack (invite sent to work email once SSO is active)
+  • HR Portal (hr.acme.internal)
+  • Workday (time tracking, expenses, PTO requests)
+
+Access Provisioned by Your Manager (within Week 1):
+  • GitHub / GitLab organisation (engineering roles)
+  • Salesforce (sales/customer success roles)
+  • Jira & Confluence (all teams)
+  • AWS / Azure / GCP (engineering; requires security training completion)
+  • Any role-specific SaaS tools
+
+IT Helpdesk: helpdesk@acme.com | Ext. 4000 | it.acme.internal
+
+========================================================
+SECTION 4: ORIENTATION SCHEDULE (WEEK 1)
+========================================================
+Day 1:
+  09:00  Welcome & building tour (meet at main lobby reception)
+  10:00  HR induction: paperwork, policies, benefits overview
+  12:00  Lunch with your team (expensed, up to $30)
+  13:30  IT setup & laptop collection
+  15:00  1:1 with your direct manager: role expectations, first-week plan
+
+Day 2:
+  09:00  Compliance training: Security Awareness & Data Protection (online, ~2 hrs)
+  11:00  Company overview presentation (CEO recording, Confluence)
+  14:00  Meet your buddy (peer mentor assigned by HR)
+
+Day 3–5:
+  - Role-specific tool and system walkthroughs
+  - Meet cross-functional stakeholders
+  - Complete remaining paperwork
+
+========================================================
+SECTION 5: KEY CONTACTS DIRECTORY
+========================================================
+HR General Enquiries     : hr@acme.com           | Ext. 5000
+Payroll                  : payroll@acme.com       | Ext. 5100
+Benefits                 : benefits@acme.com      | Ext. 5200
+IT Helpdesk              : helpdesk@acme.com      | Ext. 4000
+Legal / NDA questions    : legal@acme.com         | Ext. 6000
+Facilities / Building    : facilities@acme.com    | Ext. 3000
+Ethics Hotline           : ethics@acme.com        | 1-800-555-0199
+Your HR Business Partner : hr-bp@acme.com         | (assigned individually — check your welcome email)
+Your IT Buddy            : Assigned on Day 1 by IT
+Your Peer Buddy          : Assigned on Day 1 by HR
+
+========================================================
+SECTION 6: FIRST-90-DAY MILESTONES
+========================================================
+Day 30 Check-in (with manager):
+  • Review onboarding experience and address gaps.
+  • Confirm all paperwork is complete.
+  • Set initial OKRs.
+
+Day 60 Check-in (with manager):
+  • Progress review on OKRs.
+  • Identify any training needs.
+  • 360° peer feedback requested.
+
+Day 90 Review (formal):
+  • End-of-probation performance review.
+  • Confirm permanent employment status.
+  • Agree on goals for the next 6 months.
+
+========================================================
+SECTION 7: PROBATIONARY PERIOD
+========================================================
+Duration: 90 days for all new hires.
+During probation: standard company policies apply; notice period is 1 week on both sides.
+After probation: notice period increases to 4 weeks (or as stated in your contract).
